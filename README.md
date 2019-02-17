@@ -1,2 +1,2 @@
 # GoogleCalendar
-a iOS Component Project for GoogleGalendar
+An iOS Component Project for GoogleGalendar
